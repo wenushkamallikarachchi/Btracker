@@ -1,0 +1,50 @@
+.signupBox {
+    margin-top: 100px;
+    height: 450px;
+    background-color: rgb(213, 173, 250);
+    width: 490px;
+    border-radius: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px 10px rgb(250, 178, 178);
+  }
+  .email {
+    height: 15px;
+    width: 390px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .password {
+    height: 15px;
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .loginBtBox {
+    background-color: rgb(64, 173, 247);
+    width: 200px;
+    height: 40px;
+    border-radius: 60px;
+  
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 10px 10px rgb(182, 179, 179);
+  }
+  .loginbtn {
+    background-color: transparent;
+    border-style: none;
+    margin-top: 5px;
+    color: white;
+    font-weight: bold;
+  }
+  .login{
+  margin-left: 20px;
+  }
+  *:focus {
+    outline: 0 !important;
+}
