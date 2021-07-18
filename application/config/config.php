@@ -25,11 +25,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 
 //local config
-  //$config['base_url'] = 'http://localhost/w1673746cw2/';
+  $config['base_url'] = 'http://localhost/w1673746cw2/';
 
 /**server config */
 
- $config['base_url'] = 'https://w1673746.users.ecs.westminster.ac.uk/w1673746cw2/';
+ 
 
 /*
 |--------------------------------------------------------------------------
